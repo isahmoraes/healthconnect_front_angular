@@ -1,0 +1,8 @@
+.bar{
+       background-color: cyan;
+    display:flex ;
+    text-align: center;
+    p{
+        color: white;   ;
+    }
+}

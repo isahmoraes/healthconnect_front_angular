@@ -1,0 +1,46 @@
+
+.app-container {
+  height: 100vh;
+}
+
+.bar {
+   
+  background:#BCD9A2;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.menu-button mat-icon {
+  color: white;
+}
+.container{
+    h2{
+  color: white;
+  font-family: 'Playwrite NZ Basic', sans-serif;
+  font-size: 32px;
+  margin: 0;  
+}
+
+}
+h2{
+  color: white;
+  font-family: 'Playwrite NZ Basic', sans-serif;
+  font-size: 32px;
+  margin: 0;
+}
+.nav-list a{
+
+  
+  gap: 12px;
+ 
+  
+
+   font-family: 'Playwrite NZ Basic', sans-serif;
+  gap: 12px;
+
+
+
+
+}
+

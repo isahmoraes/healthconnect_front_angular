@@ -1,0 +1,19 @@
+.mat-form-patient{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.text-name{
+    margin-top: 16px;
+    margin-bottom: 8px;
+    color: black;
+     font-family: "Playwrite NZ Basic", cursive ;
+    font-weight: bold;
+
+}
+.title{
+    color: black;
+     font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}

@@ -9,8 +9,8 @@
 
     .cards-appointments{
        
-        margin-left: 5rem;
-        flex: 0 0 280px;  
+margin-left: 5rem;
+flex: 0 0 280px;  
   display: flex;
   flex-wrap: wrap;      /* permite quebrar de linha */
   gap: 16px;           /* espaço entre os cards */
